@@ -11,5 +11,6 @@ Using a Local Git & Git Hub Repositories for fork a Repository and start making 
 .gitignore & README.md & bikeshare_project.py files 
 
 ### Credits
-https://udacity.github.io/git-styleguide/
+https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
+
 
