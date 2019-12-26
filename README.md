@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+16-12-2019.
 
 ### Project Title
-Replace the Project Title
+GitHub project (Project 3)
 
 ### Description
-Describe what your project is about and what it does
+Using a Local Git & Git Hub Repositories for fork a Repository and start making Branches working on files, stages files and commit them on Git Hub.
 
 ### Files used
-Include the files used
+.gitignore & README.md & bikeshare_project.py files 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://udacity.github.io/git-styleguide/
 
