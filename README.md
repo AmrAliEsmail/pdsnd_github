@@ -1,5 +1,5 @@
 ### Date created
-16-12-2019.
+Dec 16,2019,9:05 AM GMT+2
 
 ### Project Title
 GitHub project (Project 3)
