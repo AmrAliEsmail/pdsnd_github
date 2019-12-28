@@ -11,5 +11,4 @@ create a GitHub repository and your local repository. You will work on a repo fo
 .gitignore & README.md & bikeshare_project.py files
 
 ### Credits
-https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
-
+https://git-scm.com/book/en/v2/Git-Basics-Tagging
